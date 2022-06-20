@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Asmaa Elsheikh
  
- 🔭 I’m currently working on ...cool projects 😄 
+ 🔭 I’m currently working on cool projects 😄 
  
- 🌱 I’m currently learning ...Python 
+ 🌱 I’m currently learning Python 
  
- ⚡ Fun fact: ...I❤Travelling
+ ⚡ Fun fact: I❤Travelling
 <!--
 **Asmaa-elsheikh/Asmaa-elsheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
