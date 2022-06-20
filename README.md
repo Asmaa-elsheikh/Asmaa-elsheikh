@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Asmaa
+ Iam currently working as e-commerce operations manager, but I have a passion for data analysis, so I start learning Python & Power BI
 <!--
 **Asmaa-elsheikh/Asmaa-elsheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
