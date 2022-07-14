@@ -2,7 +2,7 @@
  
  🔭 I’m currently working on cool projects 😄 
  
- 🌱 I’m currently learning Python 
+ 🌱 I’m currently learning Python & SQL
  
  ⚡ Fun fact: I❤Travelling
 <!--
